@@ -1,4 +1,5 @@
-Εxcercise 1 & 2 (ucs & Astar)
+**Εxcercise 1 & 2 (ucs & Astar)**
+
 
 Construction of a program that solves the following search problem:
 
@@ -33,9 +34,13 @@ Examine different values of N as well as different initial states (IS).
 
 For each N and IS, apply both the UCS method and the A method so that you can compare the methods. Specifically, the program should print: a) the path, b) the cost of this path, and c) the number of expansions performed. In the text document (report.pdf), report your conclusions regarding the efficiency of A compared to UCS.**
 
-Εxcercise 3 (Game)
 
-**Creation of a program that will play against a user in the following two-player turn-based game.
+
+**Εxcercise 3 (Game)**
+
+
+
+Creation of a program that will play against a user in the following two-player turn-based game.
 The game is played on an MxN grid. Each player has a piece that occupies one square on the grid. In the diagram below, piece A (MAX player) occupies the middle square of the first row, while piece B (MIN player) occupies the middle square of the last row.
 
 ![image](https://github.com/BourliEftychia/Artificial-Intelligence-project/assets/72252284/e5e6ba2d-5db9-411c-af42-1d92076d1972)
