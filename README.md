@@ -1,4 +1,4 @@
-Εxcercise 1 & 2 (ucs & A*)
+Εxcercise 1 & 2 (ucs & Astar)
 
 Construction of a program that solves the following search problem:
 
