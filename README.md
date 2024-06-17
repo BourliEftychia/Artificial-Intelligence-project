@@ -1,4 +1,5 @@
 Εxcercise 1 & 2
+
 Construction of a program that solves the following search problem:
 Consider a list of N positions in which the natural numbers from 1 to N have been placed (each number appearing exactly once) (e.g., [1,3,2,4,5], [2,1,4,5,3], etc., for N=5). Therefore, the state space corresponds to the permutations of the N natural numbers (from 1 to N). The final state is the state [1,2,...,N] (i.e., the numbers are placed in ascending order).
 The initial state is defined by the user at the beginning of the program execution.
@@ -15,6 +16,7 @@ Examine different values of N as well as different initial states (IS).
 For each N and IS, apply both the UCS method and the A method so that you can compare the methods. Specifically, the program should print: a) the path, b) the cost of this path, and c) the number of expansions performed. In the text document (report.pdf), report your conclusions regarding the efficiency of A compared to UCS.**
 
 Εxcercise 3
+
 **Creation of a program that will play against a user in the following two-player turn-based game.
 The game is played on an MxN grid. Each player has a piece that occupies one square on the grid. In the diagram below, piece A (MAX player) occupies the middle square of the first row, while piece B (MIN player) occupies the middle square of the last row.
 
