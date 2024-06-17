@@ -8,15 +8,7 @@ struct player{
 	int M;
 	int N;
 };
-/*
-//na kanw global to array
-struct node{
-	struct node parent;
-	int cost;
-	struct node *children;  // pinakas paidiwn
-	int score;
-}
-*/
+
 int isnotXorA(char c){
 	if(!((c == 'X') || (c == 'A') || (c == 'B'))){
 		return 1;
